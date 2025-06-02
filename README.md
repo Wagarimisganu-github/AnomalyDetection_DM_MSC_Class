@@ -1,9 +1,7 @@
 # Anomaly-Detection-in-Networks-Using-Machine-Learning
-A thesis submitted for the degree of Master of Science in Computer Networks and Security
-###### This file gives information on how to use the implementation files of "Anomaly Detection in Networks Using Machine Learning" ( A thesis submitted for the degree of Master of Science in Computer Networks and Security written by Kahraman Kostas )
 
 
-Python 3.6 was used to create the application files. Before running the files, it must be ensured that [Python 3.6](https://www.python.org/downloads/) and the following libraries are installed.
+
 
 | Library | Task |
 | ------ | ------ |
@@ -138,26 +136,10 @@ This program uses "all_data.csv" file as dataset. In feature selection, it follo
 
 This file applies 7 machine learning algorithms to "all_data.csv" file 10 times and prints the results of these operations on the screen and in the file "./attacks/results_final.csv". It also creates box and whisker graphics of the results and prints them both on the screen and in the "./attacks/result_graph_final/" folder.
 
-The last run time of this file was recorded as 18561 seconds.
-
-
-## Citations
-If you use the source code please cite the following paper:
-
-```
-@MastersThesis{kostas2018,
-    author = {Kostas,Kahraman},
-    title = {{Anomaly Detection in Networks Using Machine Learning}},
-    institution = {Computer Science and Electronic Engineering - CSEE},
-    school = {University of Essex},
-    address= {Colchester, UK},
-    year={2018}
-    }
-```
 
 
 
 
-##  [you can reach the thesis via this link](https://github.com/bozbil/Anomaly-Detection-in-Networks-Using-Machine-Learning/blob/master/Anomaly_Detection_in_Networks_Using_Machine_Learning.pdf)
+
 
 
